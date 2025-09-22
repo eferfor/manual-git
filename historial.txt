@@ -1,6 +1,1 @@
-A
-<<<<<<< HEAD
-B
-C
-=======
->>>>>>> parent of c718990 (B)
+Modificación ejercicio 8.
